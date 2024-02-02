@@ -1,0 +1,40 @@
+p {
+    font-family: "Brush Script MT", "Fantasy", sans-serif;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.lista{
+    font-family: Garamond, 'Trebuchet MS', Arial, sans-serif;
+    font-size: 19px;
+}
+
+.lista.titulo{
+    font-family: Garamond, 'Trebuchet MS', Arial, sans-serif;
+    font-size: 21px;
+}
+
+body{
+    background-color:cornsilk;
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+}
+
+h5{
+    font-style: italic;
+}
+
+.introducao{
+    color: darkslategrey;
+    font-weight: 600;
+    font-size: 23px;
+}
+
+img{
+    height: auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
