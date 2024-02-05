@@ -16,6 +16,10 @@ p {
 
 body{
     background-color:wheat;
+   
+}
+
+body.corpo-principal{
     text-align: center;
 }
 
@@ -57,10 +61,10 @@ div.receita-index{
     background-size: cover;
     max-width: 100%;
     height: auto;
+    justify-content: center;
 }
 
 #receita-um{
-    margin-left: 60px;
     background-image: url(images/goulash.jpg);
 
 }
