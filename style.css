@@ -15,7 +15,8 @@ p {
 }
 
 body{
-    background-color:cornsilk;
+    background-color:wheat;
+    text-align: center;
 }
 
 h3{
@@ -35,6 +36,46 @@ h5{
 
 img{
     height: auto;
+    max-width: auto;
+
+
+}
+
+div{
+    width: 300px;
+    margin: 16px auto;
+    padding: 10px;
+}
+
+div.receita-index{
+    display: inline-block;
+    border-style: dashed;
+    border-color:floralwhite;
+    border-radius: 30%;
+    padding: 100px;
+    background-position: center;
+    background-size: cover;
     max-width: 100%;
+    height: auto;
+}
+
+#receita-um{
+    margin-left: 60px;
+    background-image: url(images/goulash.jpg);
+
+}
+
+#receita-dois{
+    background-image: url(images/chocolate-cake.jpeg);
+}
+
+#receita-tres{
+    background-image: url(images/ginger-hibiscus.jpeg);
+
+}
+
+.imagem-index{
+    
     border-radius: 10px;
 }
+
